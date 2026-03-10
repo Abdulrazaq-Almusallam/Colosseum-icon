@@ -1,0 +1,16 @@
+{
+  "name": "COLOSSEUM",
+  "symbol": "COLOSSEUM",
+  "description": "The official utility token for Colosseum — a blockchain-based PvP combat game on Solana.",
+  "image": "https://raw.githubusercontent.com/Abdulrazaq-Almusallam/Colosseum-icon/main/colosseum-token.png",
+  "external_url": "https://solcolosseum.io",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Abdulrazaq-Almusallam/Colosseum-icon/main/colosseum-token.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "currency"
+  }
+}
